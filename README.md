@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **vscode extensions**
 
-- 🌱 I’m currently learning **typescript with react**
+- 🌱 I’m currently learning **typescript with react** and **c++**
 
 - 👨‍💻 All of my projects are available at [https://harryhopkinson.vercel.app/](https://harryhopkinson.vercel.app/)
 
