@@ -9,5 +9,5 @@
 </p>
 
 <p align="center>
-	[![](https://komarev.com/ghpvc/?username=0xflotus&color=black)](https://github.com/Harry-Hopkinson)
+	[![](https://komarev.com/ghpvc/?username=0xflotus&color=green)](https://github.com/Harry-Hopkinson)
 </p>
