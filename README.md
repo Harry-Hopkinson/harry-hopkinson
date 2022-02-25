@@ -8,6 +8,6 @@
 		src="https://activity-graph.herokuapp.com/graph?username=Harry-Hopkinson&bg_color=050F2C&color=00AEFF&line=2DDE98&point=FFFFFF&hide_border=true">
 </p>
 
-<a>
+<a align="center>
 	[![](https://komarev.com/ghpvc/?username=0xflotus&color=green)](https://github.com/Harry-Hopkinson)
 </a>
