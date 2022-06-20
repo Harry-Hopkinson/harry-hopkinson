@@ -5,4 +5,6 @@
 
 [![Harry's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harry-Hopkinson&theme=github)](https://github.com/Harry-Hopkinson/harry-hopkinson)
 
-[![](https://komarev.com/ghpvc/?username=0xflotus&color=green)](https://github.com/Harry-Hopkinson)
+<a align="center">
+  [![](https://komarev.com/ghpvc/?username=0xflotus&color=green)](https://github.com/Harry-Hopkinson)
+</a>
