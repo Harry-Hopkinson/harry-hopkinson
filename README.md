@@ -3,7 +3,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Harry-Hopkinson/harry-hopkinson/output/github-contribution-grid-snake.svg)
 
-[![Harry's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harry-Hopkinson&theme=github)](https://github.com/Harry-Hopkinson/harry-hopkinson)
+[![Harry's github activity graph]([[https://activity-graph.herokuapp.com](https://github-readme-activity-graph.cyclic.app)](https://github-readme-activity-graph.cyclic.app)/graph?username=Harry-Hopkinson&theme=github)](https://github.com/Harry-Hopkinson/harry-hopkinson)
 
 [![](https://komarev.com/ghpvc/?username=0xflotus&color=green)](https://github.com/Harry-Hopkinson)
 
