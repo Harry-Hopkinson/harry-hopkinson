@@ -6,3 +6,5 @@
 [![Harry's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harry-Hopkinson&theme=github)](https://github.com/Harry-Hopkinson/harry-hopkinson)
 
 [![](https://komarev.com/ghpvc/?username=0xflotus&color=green)](https://github.com/Harry-Hopkinson)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Hopkinson)](https://github.com/anuraghazra/github-readme-stats)
