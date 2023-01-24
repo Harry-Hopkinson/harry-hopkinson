@@ -7,8 +7,6 @@
 
   [![Harry's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Harry-Hopkinson&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  [![](https://komarev.com/ghpvc/?username=Harry-Hopkinson&color=green)](https://github.com/Harry-Hopkinson)
-
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-Hopkinson&show_icons=true&theme=onedark)
  
 </div>
