@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Harry Hopkinson</h1>
-<h3 align="center">Programmer from England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</h3>
 
 <div align="center">
 
